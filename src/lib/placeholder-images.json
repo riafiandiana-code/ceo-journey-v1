@@ -1,0 +1,46 @@
+{
+  "placeholderImages": [
+    {
+      "id": "office",
+      "description": "Modern corporate office interior",
+      "imageUrl": "https://picsum.photos/seed/ceo1/800/400",
+      "imageHint": "office workspace"
+    },
+    {
+      "id": "university",
+      "description": "Prestigious university campus",
+      "imageUrl": "https://picsum.photos/seed/ceo2/800/400",
+      "imageHint": "university campus"
+    },
+    {
+      "id": "market",
+      "description": "Stock market trading floor visualization",
+      "imageUrl": "https://picsum.photos/seed/ceo3/800/400",
+      "imageHint": "stock market"
+    },
+    {
+      "id": "prop_kost",
+      "description": "Indonesian boarding house building",
+      "imageUrl": "https://picsum.photos/seed/kost/600/400",
+      "imageHint": "boarding house"
+    },
+    {
+      "id": "prop_ruko",
+      "description": "Traditional shophouse building",
+      "imageUrl": "https://picsum.photos/seed/ruko/600/400",
+      "imageHint": "shophouse"
+    },
+    {
+      "id": "prop_apartment",
+      "description": "Modern luxury apartment building",
+      "imageUrl": "https://picsum.photos/seed/apt/600/400",
+      "imageHint": "luxury apartment"
+    },
+    {
+      "id": "prop_office",
+      "description": "Large corporate office building tower",
+      "imageUrl": "https://picsum.photos/seed/office/600/400",
+      "imageHint": "office building"
+    }
+  ]
+}
